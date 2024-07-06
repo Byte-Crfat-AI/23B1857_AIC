@@ -15,3 +15,5 @@ In response to the third technical question, I have outlined my learning journey
 
 Additional Note for Technical Question 2:
 For the second question, I have referenced a GitHub repository and made necessary modifications to the code. The required packages are listed in the requirements.txt file.
+
+Recruitment Assignment: https://docs.google.com/document/d/1I_OcD88Yt-B2GIN6kJ1nx46LZzd8--bUMFQdMDv24Hc/edit
